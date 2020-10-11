@@ -26,7 +26,7 @@ SECRET_KEY = '&z%ra2hr$_m$sjq=zd3e93@vfj74on=6b!=dj$m02yn*r)br6#'
 DEBUG = True
 
 ALLOWED_HOSTS = []
-
+# jamshid98.pythonanywhere.com. 
 
 # Application definition
 
